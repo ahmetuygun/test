@@ -4,7 +4,7 @@
 
 
 -------
-
+```json
 class Solution {
     public int solution(int[] S) {
       int max_sum = 0;
@@ -32,3 +32,4 @@ class Solution {
       return -1;
     }
 }
+```
